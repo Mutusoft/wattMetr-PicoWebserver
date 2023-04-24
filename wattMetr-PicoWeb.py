@@ -1,7 +1,7 @@
 # This code based on original code from Raspberry Pi
 # Connecting to the internet with pico w doc
 # Modified for usage with Mutusoft's wattMetr http://mutusoft.com/kitpages/
-# Code provided without any warranty and is free to use
+# Code provided without any warranty and is free to use or update
 
 
 import network
