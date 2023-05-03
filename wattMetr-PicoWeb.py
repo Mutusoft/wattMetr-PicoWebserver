@@ -16,12 +16,12 @@ import uasyncio as asyncio
 
 
 # Change these parameters before running the scipt
-ssid = "<WiFi_name>"
-password = "<WiFi_password>"
-ip = '<internal_net_fix_IP>'
-mask = '<IP mask>'
-gw = '<Default Gateway>'
-dns = '<DNS server>'
+ssid = 'WiFi_name'
+password = 'WiFi_password'
+ip = 'internal_net_fix_IP'
+mask = 'IP_mask'
+gw = 'Default_Gateway'
+dns = 'DNS_server'
 # Change these parameters before running the scipt
 
 
